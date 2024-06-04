@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "221741911632",
+    "firebase_url": "https://friday-a4cf3-default-rtdb.firebaseio.com",
+    "project_id": "friday-a4cf3",
+    "storage_bucket": "friday-a4cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221741911632:android:cbeda3c8496f2d111e0b55",
+        "android_client_info": {
+          "package_name": "com.example.github"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmd_KynaVdX3cas1eAbhl32WdMFkp13A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221741911632:android:ba013f5b2d4d79261e0b55",
+        "android_client_info": {
+          "package_name": "com.example.midsemproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmd_KynaVdX3cas1eAbhl32WdMFkp13A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
